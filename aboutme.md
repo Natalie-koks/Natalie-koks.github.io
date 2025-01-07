@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A bit about Natalie Kokroko
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Natalie Kokroko. I am currently a second year PhD student in the Computer Science Department of Rice University. 
+My research is in computational biology and bioinformatics 
+- 
+- 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+
